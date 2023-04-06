@@ -3,7 +3,7 @@ Final project for CS7643
 
 Contributors: 
 
-Abhinav Arun
-Dipendra Singh Mal
-Mehul Soni
-Tomohiro Sawada
+Abhinav Arun<br>
+Dipendra Singh Mal<br>
+Mehul Soni<br>
+Tomohiro Sawada<br>
